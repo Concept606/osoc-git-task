@@ -1,1 +1,2 @@
 second commit of osoc
+merge conflict of second commit
