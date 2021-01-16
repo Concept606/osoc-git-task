@@ -1,1 +1,2 @@
 first commit of osoc
+merge conflict of first commit
